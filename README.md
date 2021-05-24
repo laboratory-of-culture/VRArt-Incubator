@@ -12,10 +12,29 @@ In the Chernivtsi Regional Museum of Local Lore, Nikita Khudyakov chose an ancie
 
 ![Getting Started](https://www.freeboid.com/wp-content/uploads/2021/04/1.jpg)
 
-Transferring this idea to augmented reality (AR), he created the first NFT-token in Chernivtsi (NFT-token is a unique personal code of a work of digital art that helps to consolidate the authorship of the work). “Inspired by the shape and patterns of this object and other ancient objects of Trypillia culture. I created a digital token, a three-dimensional object that rotates. During the experiments with Trypillia patterns, he developed own technique of combining geometric shapes, ”- Nikita Khudyakov, digital artist.
+Transferring this idea to augmented reality (AR), he created the first NFT-token in Chernivtsi (NFT-token is a unique personal code of a work of digital art that helps to consolidate the authorship of the work). “Inspired by the shape and patterns of this object and other ancient objects of Trypillia culture. 
+
+![Getting Started](assets/photo_2021-04-11_22-29-19.jpg)
+
+>I created a digital token, a three-dimensional object that rotates. During the experiments with Trypillia patterns, he developed own technique of combining geometric shapes, ”- Nikita Khudyakov, digital artist.
 
 ![Getting Started](assets/IMG_4311.gif)
 
-
-
 >By digging into the history of this region I started to investigate images and patterns of Trypillia. During experimentation with these patterns and painting the 3D object I developed a technique of painting individual polygons. Previously I used it in simpler forms but now I’ve decided to proceed with this practice and give it the name of Polygon art.
+
+Now you can buy NFT on [hic et nunc](https://www.hicetnunc.xyz/objkt/30361)  for 10 tez
+## Sidor Vorobkevych's "Native language" in AR"
+
+Vera Degtyareva (Vera DG) has implemented the second VR-idea. This time, the artist created an audiovisual object associated with Sidor Vorobkevich.
+
+![Getting Started](assets/IMG_1324.gif)
+
+"It was the museum that identified the cultural figures we would like to see in the latest technology. I was offered a choice of several figures. And I chose Vorobkevych, because May 2 will be the 185th anniversary of his birth. I was also given a song based on Sidor Vorobkevych's words "Native language". So, scanning the code, the visitor will see a portrait of the writer and the flying pyramids around. It is an immersive experience. And if we touch the screen, there will be other different effects. And in the background - the song "Native language", - said Vera Degtyareva.
+
+![Getting Started](assets/DSCF6773-1024x683.jpg)
+
+Portrait of Vorobkevich in AR is the result of cooperation between the artist and artificial intelligence.
+Vera hired AI, who created a 3D object from the graphic work. From each pixel of the graphic work, the artificial intelligence calculated the volume. Creating more than 738,000 triangles. This model had to be optimized to 37,000 triangles to be able to load into augmented reality. To create an immersive experience, AR contains a song based on Vorobkevych's words “Native language, native word! He who forgets you has not a heart in his chest, but only a stone ”performed by Ukrainian singer Ivanka Chervinska.
+
+
+
