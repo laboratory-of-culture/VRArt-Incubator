@@ -10,11 +10,13 @@ The project supported by the [Harald Binder Cultural Enterprises Grant Program (
 
 In the Chernivtsi Regional Museum of Local Lore, Nikita Khudyakov chose an ancient ax tip, which is over 6,000 years old, and combined it with a Trypillia painting.
 
-![Getting Started](https://www.freeboid.com/wp-content/uploads/2021/04/1.jpg)
+![Getting Started](assets/DSCF6756-1-5-1024x683.jpg)
 
 Transferring this idea to augmented reality (AR), he created the first NFT-token in Chernivtsi (NFT-token is a unique personal code of a work of digital art that helps to consolidate the authorship of the work). 
 
 ![Getting Started](assets/photo_2021-04-11_22-29-19.jpg)
+
+![Getting Started](assets/photo_2021-04-11_22-41-39.jpg)
 
 >“Inspired by the shape and patterns of this object and other ancient objects of Trypillia culture I created a digital token, a three-dimensional object that rotates. During the experiments with Trypillia patterns, he developed own technique of combining geometric shapes, ”- Nikita Khudyakov, digital artist.
 
