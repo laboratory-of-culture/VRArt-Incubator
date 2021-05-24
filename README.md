@@ -29,7 +29,7 @@ Vera Degtyareva (Vera DG) has implemented the second VR-idea. This time, the art
 
 ![Getting Started](assets/IMG_1324.gif)
 
-"It was the museum that identified the cultural figures we would like to see in the latest technology. I was offered a choice of several figures. And I chose Vorobkevych, because May 2 will be the 185th anniversary of his birth. I was also given a song based on Sidor Vorobkevych's words "Native language". So, scanning the code, the visitor will see a portrait of the writer and the flying pyramids around. It is an immersive experience. And if we touch the screen, there will be other different effects. And in the background - the song "Native language", - said Vera Degtyareva.
+>"It was the museum that identified the cultural figures we would like to see in the latest technology. I was offered a choice of several figures. And I chose Vorobkevych, because May 2 will be the 185th anniversary of his birth. I was also given a song based on Sidor Vorobkevych's words "Native language". So, scanning the code, the visitor will see a portrait of the writer and the flying pyramids around. It is an immersive experience. And if we touch the screen, there will be other different effects. And in the background - the song "Native language", - said Vera Degtyareva.
 
 ![Getting Started](assets/DSCF6773-1024x683.jpg)
 
